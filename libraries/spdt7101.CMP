@@ -1,0 +1,15 @@
+Component   : PCBComponent_1
+PCB Library : spdt7101.PcbLib
+Date        : 4/3/2014
+Time        : 9:16:34 PM
+
+
+
+Dimension : 0.284 x 0.547 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          5        0       0        0
+ Multi Layer                 5          0        0       0        0
+--------------------------------------------------------------------
+ Total                       5          5        0       0        0

@@ -1,0 +1,77 @@
+Added Pin To Net: NetName=AIN Pin=PinOut1_20-3
+Added Pin To Net: NetName=GND Pin=PinOut1_20-4
+Added Pin To Net: NetName=SS Pin=PinOut1_20-5
+Added Pin To Net: NetName=MOSI Pin=PinOut1_20-6
+Added Pin To Net: NetName=MISO Pin=PinOut1_20-7
+Added Pin To Net: NetName=SCK Pin=PinOut1_20-8
+Added Pin To Net: NetName=+5VDC Pin=PinOut1_20-10
+Added Pin To Net: NetName=GND Pin=PinOut1_20-11
+Added Pin To Net: NetName=ADC Pin=PinOut21_40-1
+Added Pin To Net: NetName=GND Pin=PinOut21_40-10
+Added Pin To Net: NetName=+5VDC Pin=PinOut21_40-11
+Added Pin To Net: NetName=LCD_E Pin=PinOut21_40-12
+Added Pin To Net: NetName=LCD_RS Pin=PinOut21_40-14
+Added Pin To Net: NetName=LCD_RW Pin=PinOut21_40-15
+Added Pin To Net: NetName=LCD_D7 Pin=PinOut21_40-16
+Added Pin To Net: NetName=LCD_D6 Pin=PinOut21_40-17
+Added Pin To Net: NetName=LCD_D5 Pin=PinOut21_40-18
+Added Pin To Net: NetName=LCD_D4 Pin=PinOut21_40-19
+Added Pin To Net: NetName=PD7 Pin=PinOut21_40-20
+Added Pin To Net: NetName=AREF Pin=Main_CPU-32
+Added Pin To Net: NetName=AREF Pin=PinOut21_40-9
+Added Net: Name=AREF
+Added Pin To Net: NetName=PA1 Pin=Main_CPU-39
+Added Pin To Net: NetName=PA1 Pin=PinOut21_40-2
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=Main_CPU-38
+Added Pin To Net: NetName=PA2 Pin=PinOut21_40-3
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=Main_CPU-37
+Added Pin To Net: NetName=PA3 Pin=PinOut21_40-4
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=Main_CPU-36
+Added Pin To Net: NetName=PA4 Pin=PinOut21_40-5
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=Main_CPU-35
+Added Pin To Net: NetName=PA5 Pin=PinOut21_40-6
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=Main_CPU-34
+Added Pin To Net: NetName=PA6 Pin=PinOut21_40-7
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=Main_CPU-33
+Added Pin To Net: NetName=PA7 Pin=PinOut21_40-8
+Added Net: Name=PA7
+Added Pin To Net: NetName=PB0 Pin=Main_CPU-1
+Added Pin To Net: NetName=PB0 Pin=PinOut1_20-1
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=Main_CPU-2
+Added Pin To Net: NetName=PB1 Pin=PinOut1_20-2
+Added Net: Name=PB1
+Added Pin To Net: NetName=PC6 Pin=PinOut21_40-13
+Added Net: Name=PC6
+Added Pin To Net: NetName=PD0 Pin=Main_CPU-14
+Added Pin To Net: NetName=PD0 Pin=PinOut1_20-14
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=Main_CPU-15
+Added Pin To Net: NetName=PD1 Pin=PinOut1_20-15
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=Main_CPU-16
+Added Pin To Net: NetName=PD2 Pin=PinOut1_20-16
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=Main_CPU-17
+Added Pin To Net: NetName=PD3 Pin=PinOut1_20-17
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=Main_CPU-18
+Added Pin To Net: NetName=PD4 Pin=PinOut1_20-18
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=Main_CPU-19
+Added Pin To Net: NetName=PD5 Pin=PinOut1_20-19
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=Main_CPU-20
+Added Pin To Net: NetName=PD6 Pin=PinOut1_20-20
+Added Net: Name=PD6
+Added Pin To Net: NetName=XTAL1 Pin=PinOut1_20-13
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=PinOut1_20-12
+Added Net: Name=XTAL2
+Added Room: Name=finalproject

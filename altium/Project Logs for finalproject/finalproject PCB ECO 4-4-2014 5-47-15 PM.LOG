@@ -1,0 +1,4 @@
+Added Component: Designator=SW-SPDT1(PCBComponent_1)
+Added Pin To Net: NetName=+9VDC Pin=SW-SPDT1-1
+Added Pin To Net: NetName=NetC1_1 Pin=SW-SPDT1-2
+Added Member To Class: ClassName=finalproject Member=Component SW-SPDT1 Component_1

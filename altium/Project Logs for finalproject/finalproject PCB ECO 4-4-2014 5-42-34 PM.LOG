@@ -1,0 +1,126 @@
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=C2(CSR13-B)
+Added Component: Designator=D1(HDR1X2)
+Added Component: Designator=LCD_HEADER(HDR1X16)
+Added Component: Designator=LCDcontrast(VR5)
+Added Component: Designator=LS1(PIN2)
+Added Component: Designator=Main_CPU(40P6)
+Added Component: Designator=P1(BNC_RA CON)
+Added Component: Designator=PinOut1_20(HDR1X20)
+Added Component: Designator=PinOut21_40(HDR1X20)
+Added Component: Designator=Power1(PCBComponent_1 - duplicate)
+Added Component: Designator=ProgramHeader(HDR2X3)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=SW?(SW-PUSH-4)
+Added Component: Designator=U1(T03B)
+Added Component: Designator=U2(HDR2X4)
+Added Pin To Net: NetName=+5VDC Pin=C2-2
+Added Pin To Net: NetName=+5VDC Pin=LCD_HEADER-2
+Added Pin To Net: NetName=+5VDC Pin=LCDcontrast-1
+Added Pin To Net: NetName=+5VDC Pin=Main_CPU-10
+Added Pin To Net: NetName=+5VDC Pin=Main_CPU-30
+Added Pin To Net: NetName=+5VDC Pin=ProgramHeader-2
+Added Pin To Net: NetName=+5VDC Pin=Q1-1
+Added Pin To Net: NetName=+5VDC Pin=R?-2
+Added Pin To Net: NetName=+5VDC Pin=U1-3
+Added Pin To Net: NetName=+5VDC Pin=U2-6
+Added Pin To Net: NetName=+5VDC Pin=U2-7
+Added Net: Name=+5VDC
+Added Pin To Net: NetName=+9VDC Pin=Power1-1
+Added Pin To Net: NetName=+9VDC Pin=R1-2
+Added Net: Name=+9VDC
+Added Pin To Net: NetName=ADC Pin=Main_CPU-40
+Added Pin To Net: NetName=ADC Pin=R1-1
+Added Pin To Net: NetName=ADC Pin=R2-2
+Added Net: Name=ADC
+Added Pin To Net: NetName=AIN Pin=Main_CPU-3
+Added Pin To Net: NetName=AIN Pin=P1-1
+Added Net: Name=AIN
+Added Pin To Net: NetName=DAC_TO_MOSFET Pin=Q1-2
+Added Pin To Net: NetName=DAC_TO_MOSFET Pin=U2-2
+Added Net: Name=DAC_TO_MOSFET
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=LCD_HEADER-1
+Added Pin To Net: NetName=GND Pin=LCDcontrast-3
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=Main_CPU-4
+Added Pin To Net: NetName=GND Pin=Main_CPU-11
+Added Pin To Net: NetName=GND Pin=Main_CPU-31
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=Power1-2
+Added Pin To Net: NetName=GND Pin=ProgramHeader-6
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=LCD_D4 Pin=LCD_HEADER-11
+Added Pin To Net: NetName=LCD_D4 Pin=Main_CPU-22
+Added Net: Name=LCD_D4
+Added Pin To Net: NetName=LCD_D5 Pin=LCD_HEADER-12
+Added Pin To Net: NetName=LCD_D5 Pin=Main_CPU-23
+Added Net: Name=LCD_D5
+Added Pin To Net: NetName=LCD_D6 Pin=LCD_HEADER-13
+Added Pin To Net: NetName=LCD_D6 Pin=Main_CPU-24
+Added Net: Name=LCD_D6
+Added Pin To Net: NetName=LCD_D7 Pin=LCD_HEADER-14
+Added Pin To Net: NetName=LCD_D7 Pin=Main_CPU-25
+Added Net: Name=LCD_D7
+Added Pin To Net: NetName=LCD_E Pin=LCD_HEADER-6
+Added Pin To Net: NetName=LCD_E Pin=Main_CPU-29
+Added Net: Name=LCD_E
+Added Pin To Net: NetName=LCD_RS Pin=LCD_HEADER-4
+Added Pin To Net: NetName=LCD_RS Pin=Main_CPU-27
+Added Net: Name=LCD_RS
+Added Pin To Net: NetName=LCD_RW Pin=LCD_HEADER-5
+Added Pin To Net: NetName=LCD_RW Pin=Main_CPU-26
+Added Net: Name=LCD_RW
+Added Pin To Net: NetName=LCD_VO Pin=LCD_HEADER-3
+Added Pin To Net: NetName=LCD_VO Pin=LCDcontrast-2
+Added Net: Name=LCD_VO
+Added Pin To Net: NetName=MISO Pin=Main_CPU-7
+Added Pin To Net: NetName=MISO Pin=ProgramHeader-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Main_CPU-6
+Added Pin To Net: NetName=MOSI Pin=ProgramHeader-4
+Added Pin To Net: NetName=MOSI Pin=U2-5
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetLS1_1 Pin=R4-2
+Added Net: Name=NetLS1_1
+Added Pin To Net: NetName=PD7 Pin=Main_CPU-21
+Added Pin To Net: NetName=PD7 Pin=R3-1
+Added Net: Name=PD7
+Added Pin To Net: NetName=RESET Pin=Main_CPU-9
+Added Pin To Net: NetName=RESET Pin=ProgramHeader-5
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=Main_CPU-8
+Added Pin To Net: NetName=SCK Pin=ProgramHeader-3
+Added Pin To Net: NetName=SCK Pin=U2-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=SS Pin=Main_CPU-5
+Added Pin To Net: NetName=SS Pin=U2-1
+Added Net: Name=SS
+Added Class: Name=finalproject
+Added Room: Name=finalproject

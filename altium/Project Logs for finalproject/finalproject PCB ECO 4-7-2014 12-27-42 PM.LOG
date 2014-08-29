@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C2 Old Footprint=CSR13-B New Footprint=CSR13-D
+Change Component Designator: OldDesignator=SW1 RESET NewDesignator=SW1
